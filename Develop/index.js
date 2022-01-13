@@ -47,28 +47,18 @@ const questions = [
     ,
 { 
     type:"input",
-    name:"contributors",
+    name:"contribution",
     message:"Who contributed to this project?",
     },
 { 
     type:"input",
-    name:"test",
+    name:"tests",
     message:"How do I test this project?",
     },
 { 
     type:"input",
     name:"questions",
-    message:"Please provide contact info additional questions:",
-    },
-{ 
-    type:"input",
-    name:"username",
-    message:"What is your github username?",
-    },
- { 
-    type:"input",
-    name:"email",
-    message:"What is your email address?",
+    message:"Please provide contact info for additional questions:",
     },
 
 ];
