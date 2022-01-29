@@ -1,7 +1,7 @@
-# title ReadMe Generator File
+# title Note Take App
   
   ## Descritpion
-  This app accepts user input and generates a profession ReadMe file using javascript and Node.js
+  This is an application called Note Taker App  that is used to write and save notes. This application  uses an Express.js back end and  save and retrieve note data from a JSON file.
   ## Table of Contents
   * [ Description](#description)
   * [ Installation](#installation)
@@ -12,17 +12,17 @@
   * [ Questions](#questions)
   
   ## Installation
-  Download app from Github and run in terminal using node.js
+  This app is devoloped using Heroku and can be accessed from your devices web browser
   ## Usage
-  run node.js to create a readme File
+  AS A small business owner
   ## License
   MIT
   ## Contributions
-  Shadae Brown
+  SO THAT I can organize my thoughts and keep track of tasks I need to complete
   ## Testing
-  There are no required test
+  There are no required tests for this application
   ## Questions
 
 
   for additional question you can contact me here:
- #### Github:[github.com/shadae96].Github}](http://github.com/shadae96))
+ #### Github:[github.com/shadaeamoy@gmail.com].Github}](http://github.com/shadaeamoy@gmail.com))
